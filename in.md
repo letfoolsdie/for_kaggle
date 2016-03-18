@@ -29,3 +29,6 @@ List:
 
 2014 Tradeshift Text Classification https://www.kaggle.com/c/tradeshift-text-classification
 1st place: https://github.com/daxiongshu/kaggle-tradeshift-winning-solution
+
+2015-2016 Airbnb New User Bookings https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
+2nd place: https://github.com/Keiku/kaggle-airbnb-recruiting-new-user-bookings
